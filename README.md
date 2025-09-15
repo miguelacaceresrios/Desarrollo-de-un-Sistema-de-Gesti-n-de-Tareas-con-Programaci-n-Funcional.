@@ -1,4 +1,4 @@
-# Desarrollo-de-un-Sistema-de-Gesti-n-de-Tareas-con-Programaci-n-Funcional.
+
 # 📝 Sistema de Gestión de Tareas (Programación Funcional)
 
 Este proyecto implementa un sistema de gestión de tareas utilizando **programación funcional** en Python.  
